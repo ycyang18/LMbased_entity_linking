@@ -40,7 +40,7 @@ python database_query.py
 ```
 python src/data_augmentation.py
 python train.py
-python src/inference.py
+python inference.py
 ```
 
 ## Result
