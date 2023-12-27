@@ -1,6 +1,6 @@
 # LM-based Entity Linking 
 
-This project is the realization of Entity Linking task using two apporahes.
+This project is the realization of Entity Linking task using two apporahes: Vector Database Integration with OpenAI's Generative Model and Fine-tuning BERT for Token Classification.
 
 ## Installation
 
