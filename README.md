@@ -6,8 +6,8 @@ This project is the realization of Entity Linking task using two apporahes: Vect
 
 Clone the repository and install the dependencies:
 ```
-git clone https://github.com/ycyang18/LM-based-EntityLinking.git
-cd LM-based-EntityLinking
+git clone https://github.com/ycyang18/LMbased_entity_linking.git
+cd LMbased_entity_linking
 pip install -r requirements.txt
 ```
 
