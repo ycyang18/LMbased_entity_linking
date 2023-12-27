@@ -14,11 +14,7 @@ pip install -r requirements.txt
 ## Methods
 
 ### Approach 1: Vector Database Integration with OpenAI's Generative Model
-<<<<<<< HEAD
 This approach uses Embedded Weaviate configued with generative model `gpt-3.5-turbo` to extract the company names and urls through the power of RAG. 
-=======
-This approach uses Embedded Weaviate configued with generative model to extract the company names and urls through the power of RAG. 
->>>>>>> refs/remotes/origin/master
 
 1. Data Preparation: Create schemas (can be found under `src/configs.py`) and import `company_collection.json` and `news_articles-new.jsonl` into the local vector database.
 2. Entity Extraction: Utilize Weaviate's Generative Search (ChatCompletion) to identify company names within articles.
@@ -37,21 +33,13 @@ python database_query.py
 
 ### Apporach 2: Fine-tuning BERT for Token Classification
 
-This apporach adapts Bert with linear layer classifer to do entity recognition. 
-<<<<<<< HEAD
 1. Data Augmentation: Generate 8000 fictional articles (JSON objects) with identical format as `news_articles-gold.jsonl`, using OpenAI's (`gpt-3.5-turbo` & `gpt-4.0`) new JSON mode feature. The augmented dataset is stored in `file/augmented_8000_news_articles-gold.jsonl`.
 2. Model Training: Fine-tune the BERT based model for token classification tasks on the augmented dataset. BERT cased is used to remain the capitalized tokens to increase the sensitivity of the model on company name detection.
-=======
-1. Data Augmentation: Generate 8000 fictional articles (JSON objects) with identical format as `news_articles-gold.jsonl`, using OpenAI's JSON mode. The augmented dataset is stored in `file/augmented_8000_news_articles-gold.jsonl`.
-2. Model Training: Fine-tune the BERT model for token classification tasks on the augmented dataset.
->>>>>>> refs/remotes/origin/master
-3. Inference
 
 #### Implementation:
 ```
 python src/data_augmentation.py
 python train.py
-<<<<<<< HEAD
 python src/inference.py
 ```
 
@@ -59,8 +47,3 @@ python src/inference.py
 You can find output using two approaches in the following:
 1. Approach1: `file/news_articles-linked.jsonl`
 2. Approach2: `file/news_articles-linked_bert.jsonl`
-=======
-python inference.py
-```
-
->>>>>>> refs/remotes/origin/master
