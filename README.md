@@ -33,8 +33,11 @@ python database_query.py
 
 ### Apporach 2: Fine-tuning BERT for Token Classification
 
+You can download the checkpoint model at: https://drive.google.com/drive/folders/18cLLkrJKZKw_Wlr_3wQOmMKiOhxZzLZv?usp=share_link, please place it under the folder `checkpoint/`.
+
 1. Data Augmentation: Generate 8000 fictional articles (JSON objects) with identical format as `news_articles-gold.jsonl`, using OpenAI's (`gpt-3.5-turbo` & `gpt-4.0`) new JSON mode feature. The augmented dataset is stored in `file/augmented_8000_news_articles-gold.jsonl`.
 2. Model Training: Fine-tune the BERT based model for token classification tasks on the augmented dataset. BERT cased is used to remain the capitalized tokens to increase the sensitivity of the model on company name detection.
+3. Inference
 
 #### Implementation:
 ```
