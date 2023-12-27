@@ -1,0 +1,68 @@
+embedded weaviate is already listening on port 8079
+Importing articles from /Users/yangching18/side_projects/EL_repo/file/news_articles-new.jsonl ... 
+--> Total articles imported: 60
+Importing company collection:   0%|          | 0/3330 [00:00<?, ?it/s]Importing company collection:   1%|          | 22/3330 [00:00<00:15, 217.48it/s]Importing company collection:   2%|▏         | 66/3330 [00:00<00:09, 343.42it/s]Importing company collection:   3%|▎         | 109/3330 [00:00<00:08, 379.42it/s]Importing company collection:   5%|▍         | 154/3330 [00:00<00:07, 404.08it/s]Importing company collection:   6%|▌         | 199/3330 [00:00<00:07, 418.58it/s]Importing company collection:   7%|▋         | 244/3330 [00:00<00:07, 425.98it/s]Importing company collection:   9%|▊         | 289/3330 [00:00<00:07, 431.45it/s]Importing company collection:  10%|█         | 334/3330 [00:00<00:06, 435.21it/s]Importing company collection:  11%|█▏        | 378/3330 [00:00<00:06, 435.74it/s]Importing company collection:  13%|█▎        | 423/3330 [00:01<00:06, 437.83it/s]Importing company collection:  14%|█▍        | 468/3330 [00:01<00:06, 439.42it/s]Importing company collection:  15%|█▌        | 513/3330 [00:01<00:06, 441.02it/s]Importing company collection:  17%|█▋        | 558/3330 [00:01<00:06, 441.86it/s]Importing company collection:  18%|█▊        | 603/3330 [00:01<00:06, 441.35it/s]Importing company collection:  19%|█▉        | 648/3330 [00:01<00:06, 439.03it/s]Importing company collection:  21%|██        | 692/3330 [00:01<00:06, 437.83it/s]Importing company collection:  22%|██▏       | 737/3330 [00:01<00:05, 439.95it/s]Importing company collection:  23%|██▎       | 782/3330 [00:01<00:05, 441.21it/s]Importing company collection:  25%|██▍       | 827/3330 [00:01<00:05, 440.13it/s]Importing company collection:  26%|██▌       | 872/3330 [00:02<00:05, 440.57it/s]Importing company collection:  28%|██▊       | 917/3330 [00:02<00:05, 441.61it/s]Importing company collection:  29%|██▉       | 962/3330 [00:02<00:05, 441.85it/s]Importing company collection:  30%|███       | 1007/3330 [00:02<00:05, 440.33it/s]Importing company collection:  32%|███▏      | 1052/3330 [00:02<00:05, 421.57it/s]Importing company collection:  33%|███▎      | 1096/3330 [00:02<00:05, 425.05it/s]Importing company collection:  34%|███▍      | 1140/3330 [00:02<00:05, 428.77it/s]Importing company collection:  36%|███▌      | 1183/3330 [00:02<00:05, 425.57it/s]Importing company collection:  37%|███▋      | 1226/3330 [00:02<00:04, 423.11it/s]Importing company collection:  38%|███▊      | 1270/3330 [00:02<00:04, 425.39it/s]Importing company collection:  39%|███▉      | 1313/3330 [00:03<00:04, 426.16it/s]Importing company collection:  41%|████      | 1357/3330 [00:03<00:04, 428.01it/s]Importing company collection:  42%|████▏     | 1401/3330 [00:03<00:04, 428.68it/s]Importing company collection:  43%|████▎     | 1444/3330 [00:03<00:04, 410.92it/s]Importing company collection:  45%|████▍     | 1486/3330 [00:03<00:05, 343.10it/s]Importing company collection:  46%|████▌     | 1526/3330 [00:03<00:05, 356.27it/s]Importing company collection:  47%|████▋     | 1564/3330 [00:03<00:04, 359.48it/s]Importing company collection:  48%|████▊     | 1605/3330 [00:03<00:04, 370.23it/s]Importing company collection:  49%|████▉     | 1646/3330 [00:03<00:04, 380.84it/s]Importing company collection:  51%|█████     | 1687/3330 [00:04<00:04, 388.76it/s]Importing company collection:  52%|█████▏    | 1729/3330 [00:04<00:04, 396.17it/s]Importing company collection:  53%|█████▎    | 1769/3330 [00:04<00:03, 396.25it/s]Importing company collection:  54%|█████▍    | 1813/3330 [00:04<00:03, 407.41it/s]Importing company collection:  56%|█████▌    | 1858/3330 [00:04<00:03, 417.59it/s]Importing company collection:  57%|█████▋    | 1900/3330 [00:04<00:03, 408.03it/s]Importing company collection:  58%|█████▊    | 1941/3330 [00:04<00:03, 400.73it/s]Importing company collection:  60%|█████▉    | 1985/3330 [00:04<00:03, 411.13it/s]Importing company collection:  61%|██████    | 2029/3330 [00:04<00:03, 419.06it/s]Importing company collection:  62%|██████▏   | 2073/3330 [00:04<00:02, 422.89it/s]Importing company collection:  64%|██████▎   | 2117/3330 [00:05<00:02, 426.15it/s]Importing company collection:  65%|██████▍   | 2161/3330 [00:05<00:02, 429.16it/s]Importing company collection:  66%|██████▌   | 2204/3330 [00:05<00:02, 422.31it/s]Importing company collection:  67%|██████▋   | 2247/3330 [00:05<00:02, 417.42it/s]Importing company collection:  69%|██████▊   | 2289/3330 [00:05<00:02, 406.57it/s]Importing company collection:  70%|██████▉   | 2330/3330 [00:05<00:02, 402.04it/s]Importing company collection:  71%|███████   | 2371/3330 [00:05<00:02, 396.38it/s]Importing company collection:  72%|███████▏  | 2411/3330 [00:05<00:02, 394.47it/s]Importing company collection:  74%|███████▎  | 2453/3330 [00:05<00:02, 400.76it/s]Importing company collection:  75%|███████▍  | 2494/3330 [00:06<00:02, 401.83it/s]Importing company collection:  76%|███████▌  | 2535/3330 [00:06<00:02, 365.29it/s]Importing company collection:  77%|███████▋  | 2578/3330 [00:06<00:01, 382.98it/s]Importing company collection:  79%|███████▊  | 2622/3330 [00:06<00:01, 397.64it/s]Importing company collection:  80%|████████  | 2667/3330 [00:06<00:01, 410.31it/s]Importing company collection:  81%|████████▏ | 2712/3330 [00:06<00:01, 419.92it/s]Importing company collection:  83%|████████▎ | 2755/3330 [00:06<00:01, 421.76it/s]Importing company collection:  84%|████████▍ | 2798/3330 [00:06<00:01, 414.19it/s]Importing company collection:  85%|████████▌ | 2840/3330 [00:06<00:01, 410.71it/s]Importing company collection:  87%|████████▋ | 2882/3330 [00:06<00:01, 408.44it/s]Importing company collection:  88%|████████▊ | 2927/3330 [00:07<00:00, 418.74it/s]Importing company collection:  89%|████████▉ | 2971/3330 [00:07<00:00, 424.23it/s]Importing company collection:  91%|█████████ | 3014/3330 [00:07<00:00, 409.63it/s]Importing company collection:  92%|█████████▏| 3056/3330 [00:07<00:00, 411.18it/s]Importing company collection:  93%|█████████▎| 3101/3330 [00:07<00:00, 419.99it/s]Importing company collection:  94%|█████████▍| 3146/3330 [00:07<00:00, 427.95it/s]Importing company collection:  96%|█████████▌| 3190/3330 [00:07<00:00, 430.90it/s]Importing company collection:  97%|█████████▋| 3235/3330 [00:07<00:00, 434.35it/s]Importing company collection:  98%|█████████▊| 3280/3330 [00:07<00:00, 437.06it/s]Importing company collection: 100%|█████████▉| 3325/3330 [00:08<00:00, 440.28it/s]Importing company collection: 100%|██████████| 3330/3330 [00:08<00:00, 414.94it/s]
+--> Total companies imported: 3330
+Number of articles retrieved: 60
+Processing article: Online Plant Shop Bloomscape Sees Green with Revolution-Led $7.5M Series A
+Processing article: Here’s When $100M Venture Rounds Took Over
+Processing article: VC Summer Slowdown Hits Boston, Which Has Its Slowest July Since 2014
+Processing article: Impossible Foods Raises Another $200M 
+Processing article: Last Week In Venture: Haute Hijab, Pro Network Mining, Coin Crunching, And Time Storage
+Processing article: PlayVS Scores Third Round ($50M) In 13 Months To Bring Esports To High Schools
+Processing article: London-Based Digital Bank Revolut Raises $500M To Reach $5.5B Valuation
+Processing article: Utah’s Neighbor.com Raises $10M In A16z-Led Series A To Be The ‘Airbnb Of Storage’
+Processing article: Utah’s Podium Raises $125M Series C, Rolls Out Free Version Of Its Product
+Processing article: Top Hat Raises $55M Series D To Help Make The 8 a.m., 150-Person Lecture More Interactive
+Processing article: Spurred By Robinhood, Trading Fees Fall Among Old-Guard Brokers
+Processing article: Amazon’s Value Tops $1 Trillion In Tuesday Trading
+Processing article: Good Time To Start A Consumer Brand? Industry Players Weigh In
+Processing article: The Top New Enterprise Associates-Led Deals Of 2018
+Processing article: Orca Security Secures $20M Series A To Provide ‘Frictionless’ Cloud Security
+Processing article: Aerospike Secures $32 Million Series D To Further Grow Its High-Scale NoSQL Database Platform
+Processing article: Learn, Observe, Control: UChicago To Commercialize A Generalized Software Optimization Framework
+Processing article: Real Estate Developer Turned Tech Startup Veev Raises $97M For Panelized Building System
+Processing article: Arlo Opens At $18.50 After Pricing At $16
+Processing article: Canada’s Element AI Raises $151M Series B As Country’s Startup Scene Heats Up
+Processing article: Last Week In Venture: Luggage Luggers, Supportive Sweepers And $400 College Credits
+Processing article: In A Continued Push To Enter The Consumer Market, Foxconn Spends $866M On Belkin
+Processing article: Boston’s August Includes Its Biggest Cybersecurity Round Yet (And Chickpeas)
+Processing article: Despite Current Environment, Fintech Startups Continue To Hire And Raise Funds
+Processing article: Open Source Software Is Big Business With Big Funding
+Processing article: Deflated, Uber May Swap Anniversary Balloons For Stickers To Save $200K Per Year
+Processing article: How Didi Partnered And Burned Its Way To Market Leadership In China
+Processing article: Hungry Marketplace Raises $20M Series B From Former Whole Foods Co-CEO, Celebrities
+Processing article: Pipe, A Financing Platform For SaaS Companies, Raises $6M Seed
+Processing article: Meditation Apps Address Stress of COVID-19
+Processing article: Brazilian VC Base Partners Closes Over $135 Million For Second Latin America-Focused Growth Fund
+Processing article: YC’s TrueNorth Raises Some Dollars To Fix Inefficiencies For Independent Truckers
+Processing article: SoftBank, Kakao Give Radish $63M Series A Boost To Build New Story Content
+Processing article: Bright Health Raises $200M For Affordable Individual Health Insurance
+Processing article: General Catalyst-Backed Kernel Will Use $53M Series C To Tap Into The Human Mind
+Processing article: Freshworks Joins The Unicorn Club With $100M Series G Co-Led By Sequoia And Accel
+Processing article: Leaping From Seed To Series A For Digital Health Startups Proves Difficult
+Processing article: Construction Tech Unicorn Procore Drops S-1, Revealing Sharply Rising Revenue And Net Losses
+Processing article: Rippling Reaches Unicorn Status With $145M Series B
+Processing article: Austin’s LeanDNA Raises $15 Million For AI-Driven Factory Management Platform
+Processing article: WeFunder Gets $5.1M To Be The ‘Kickstarter For Investing’
+Processing article: Three Deals You Missed From Bengaluru’s Growing Startup Scene
+Processing article: Lead Edge Capital Raises $520M Fund IV
+Processing article: No Slacking: Microsoft Teams Announces 13M DAUs, Mattermost Raises At Rapid Clip
+Processing article: Palantir Files Confidentially for IPO
+Processing article: Florida’s Xendoo Raises $3.5 Million Seed To Help Small Businesses With Accounting 
+Processing article: Last Week In Venture: Saving The Sea With Plastic From Kelp, A New Kind Of B-School, And Keeping Engineering Spirits Bright
+Processing article: SoftBank Revs Up Didi’s Autonomous Driving Engine With $500M Investment
+Processing article: After $4B Honey Acquisition, A Dip Into PayPal’s Buying History
+Processing article: Duolingo Lands $30M, Reaches Unicorn Status 
+Processing article: Brazilian Digital Onboarding Startup idwall Lands $10M Series B With Qualcomm As Lead
+Processing article: Clara, Which Helps Provide Legal Assistance For Startups, Launches With $2M In Seed Funding
+Processing article: The Q2 2019 Global Venture Capital Report: A Market Gone Sideways
+Processing article: HistoSonics Lands $40M Series C-1 To Perfect Precision Therapy
+Processing article: From The Court To Cap Tables: NBA’s Andre Iguodala Talks New VC Role & How Basketball and Investing Are Similar
+Processing article: Texas Startups Raised 36 Percent Less In Q4 YOY
+Processing article: SonderMind Raises $27M Series B For Mental Health Accessibility
+Processing article: Corporate Bio VCs Are Backing More Rounds And Making Bigger Bets
+Processing article: Citi Launches $150M Social Impact Fund To Invest In ‘Double Bottom Line’ Businesses
+Processing article: Pinterest May Go Public In Q2 After Growing Around 50% In 2018
+
+ Linked articles saved to: /Users/yangching18/side_projects/EL_repo/file/news_articles-linked.jsonl
